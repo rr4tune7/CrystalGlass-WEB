@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Acura MDX 2001-06",
+    "price": 35700,
+    "description": "inchvor mi ban"
+  },
+  {
+    "name": "KMK Acura MDX 2007-13",
+    "price": 44700,
+    "description": "inchvor mi ban"
+  },
+  {
+    "name": "KMK Acura MDX 2014",
+    "price": 44700,
+    "description": "inchvor mi ban"
+  },
+  {
+    "name": "Acura \"MDX\" II 5D Suv '2007-2013",
+    "price": 44700
+  },
+  {
+    "name": "Acura RDX 2006-12",
+    "price": 36700
+  },
+  {
+    "name": "KMK Acura RDX 2006-12",
+    "price": 36700
+  },
+  {
+    "name": "KMK Acura \"RDX\" II 5D Suv '2013-2018",
+    "price": 41700
+  },
+  {
+    "name": "Alfa Romeo \"Giulia\" II (952) 4D Sed '2015-",
+    "price": 65700
+  },
+  {
+    "name": "Alfa Romeo \"Giulia\" II (952) 4D Sed '2015-",
+    "price": 65700
+  },
+  {
+    "name": "Alfa Romeo \"159\" 4D Sed / 5D Hbk '2005-2011",
+    "price": 42700
+  },
+  {
+    "name": "Alfa Romeo 156 1997-05",
+    "price": 36700
+  },
+  {
+    "name": "Alfa Romeo Stelvio 2017",
+    "price": 65700
+  },
+  {
+    "name": "Audi TT CPE / Roadster 1998-06",
+    "price": 36700
+  },
+  {
+    "name": "Audi 100 (44) 1982-91",
+    "price": 32700
+  },
+  {
+    "name": "Audi \"100 \" 4D Sed (91-97) (C4) / 5D Avant (94-97) '1991-1997",
+    "price": 34700
+  },
+  {
+    "name": "Audi \"80\" (B2) 4D Sed '1978-1986",
+    "price": 34700
+  },
+  {
+    "name": "Audi \"80\" (B3,B4) 4D Sed (86-94) / 5D Avant (92-96) '1986-1996",
+    "price": 34700
+  },
+  {
+    "name": "Audi 80 1986-94",
+    "price": 35700
+  },
+  {
+    "name": "Audi A3 1996-03",
+    "price": 32700
+  }
+]
